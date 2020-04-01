@@ -1,4 +1,4 @@
 # Ultrasound-Nerve-Segmentation
-in progress
 
-We are creating an algorithm using deep learning methods in order to automatically identify pain centers in ultrasound images of the nerve system.
+Creating a deep learning algorithm that automatically identifies the Brachial Plexus (BP) nerve network in ultrasound images. Project supervised by CRML Lab (Control, Robotics and Machine Learning) at the Faculty of Electrical Engineering, Technion.
+
